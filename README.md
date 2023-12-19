@@ -12,4 +12,4 @@ In this exercise I analyzed the differences between customers who accepted speci
                 - Frequency of visits per month to both Bars and Restaurants
 - After modeling, I created some visuals that highlighted the acceptance rate and evaluated the coupon acceptors are older than 25 and frequent each Bar and Restaurant more than 4 times a month.
 
-Link to Jupyter notebook: 
+Link to Jupyter notebook: [](https://github.com/mfojeda/Practical_Application_HaaS/blob/main/Practical_Application.ipynb)https://github.com/mfojeda/Practical_Application_HaaS/blob/main/Practical_Application.ipynb
